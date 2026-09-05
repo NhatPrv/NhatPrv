@@ -1,6 +1,6 @@
 <div align="center">
 
-# hi, i'm Nhat 👋
+# Hi, i'm Nhat 👋
 
 > i have no idea what i'm doing  
 > but it works so don't touch it
