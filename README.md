@@ -15,14 +15,13 @@
 
 <div align="center">
   <a href="https://github.com/NhatPrv">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NhatPrv&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="NhatPrv's GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NhatPrv&show_icons=true&theme=tokyonight&hide_border=true" height="120" alt="NhatPrv's GitHub Stats" />
   </a>
   <a href="https://github.com/NhatPrv">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NhatPrv&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NhatPrv&layout=compact&theme=tokyonight&hide_border=true" height="120" alt="Top Languages" />
   </a>
-  <br>
   <a href="https://github.com/NhatPrv">
-    <img src="https://streak-stats.demolab.com/?user=NhatPrv&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=NhatPrv&theme=tokyonight&hide_border=true" height="120" alt="GitHub Streak" />
   </a>
 </div>
 
