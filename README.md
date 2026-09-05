@@ -28,13 +28,42 @@
 
 <h3 align="center">☕ Tinkering & Projects</h3>
 
-| Project | Tech | Description |
-| :--- | :---: | :--- |
-| [**discord-quest-completer**](https://github.com/NhatPrv/discord-quest-completer) | `Vue` | Complete Discord quests without downloading full games |
-| [**image_agent**](https://github.com/NhatPrv/image_agent) | `Python` | Local image & agent workflow experiments |
-| [**MCLauncher**](https://github.com/NhatPrv/MCLauncher) | `TypeScript` | Custom lightweight Minecraft launcher |
-| [**PC_Control_For_PC**](https://github.com/NhatPrv/PC_Control_For_PC) | `Dart` | PC remote controller utility |
-| [**paper-desktop**](https://github.com/NhatPrv/paper-desktop) | `TypeScript` | Interactive desktop wallpaper tool |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="32%" align="left">Project</th>
+      <th width="16%" align="center">Tech</th>
+      <th width="52%" align="left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/NhatPrv/discord-quest-completer"><b>discord-quest-completer</b></a></td>
+      <td align="center"><code>Vue</code></td>
+      <td>Complete Discord quests without downloading full games</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NhatPrv/image_agent"><b>image_agent</b></a></td>
+      <td align="center"><code>Python</code></td>
+      <td>Local image &amp; agent workflow experiments</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NhatPrv/MCLauncher"><b>MCLauncher</b></a></td>
+      <td align="center"><code>TypeScript</code></td>
+      <td>Custom lightweight Minecraft launcher</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NhatPrv/PC_Control_For_PC"><b>PC_Control_For_PC</b></a></td>
+      <td align="center"><code>Dart</code></td>
+      <td>PC remote controller utility</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NhatPrv/paper-desktop"><b>paper-desktop</b></a></td>
+      <td align="center"><code>TypeScript</code></td>
+      <td>Interactive desktop wallpaper tool</td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 
