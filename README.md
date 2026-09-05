@@ -6,13 +6,13 @@
 
 <div align="center">
 
-> probably coding. probably.
+> Probably coding. Probably.
 
 </div>
 
 <br>
 
-### 🛠️ toolbox
+### 🛠️ Toolbox
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -22,7 +22,7 @@
 
 <br>
 
-### 📊 stats & numbers
+### 📊 Stats & Numbers
 
 <div align="center">
   <a href="https://github.com/NhatPrv">
@@ -39,16 +39,16 @@
 
 <br>
 
-### ☕ tinkering & projects
+### ☕ Tinkering & Projects
 
-- [**discord-quest-completer**](https://github.com/NhatPrv/discord-quest-completer) `Vue` — complete Discord quests without downloading full games
-- [**image_agent**](https://github.com/NhatPrv/image_agent) `Python` — local image & agent workflow experiments
-- [**MCLauncher**](https://github.com/NhatPrv/MCLauncher) `TypeScript` — custom Minecraft launcher
+- [**discord-quest-completer**](https://github.com/NhatPrv/discord-quest-completer) `Vue` — Complete Discord quests without downloading full games
+- [**image_agent**](https://github.com/NhatPrv/image_agent) `Python` — Local image & agent workflow experiments
+- [**MCLauncher**](https://github.com/NhatPrv/MCLauncher) `TypeScript` — Custom Minecraft launcher
 - [**PC_Control_For_PC**](https://github.com/NhatPrv/PC_Control_For_PC) `Dart` — PC remote controller utility
-- [**paper-desktop**](https://github.com/NhatPrv/paper-desktop) `TypeScript` — interactive desktop wallpaper tool
+- [**paper-desktop**](https://github.com/NhatPrv/paper-desktop) `TypeScript` — Interactive desktop wallpaper tool
 
 <br>
 
 <div align="center">
-  <sub>*no bugs were harmed in the making of this profile* 🐈‍⬛</sub>
+  <sub>*No bugs were harmed in the making of this profile* 🐈‍⬛</sub>
 </div>
