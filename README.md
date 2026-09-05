@@ -14,15 +14,19 @@
 <h3 align="center">📊 Stats & Numbers</h3>
 
 <div align="center">
-  <a href="https://github.com/NhatPrv">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NhatPrv&show_icons=true&theme=tokyonight&hide_border=true" height="120" alt="NhatPrv's GitHub Stats" />
-  </a>
-  <a href="https://github.com/NhatPrv">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NhatPrv&layout=compact&theme=tokyonight&hide_border=true" height="120" alt="Top Languages" />
-  </a>
-  <a href="https://github.com/NhatPrv">
-    <img src="https://streak-stats.demolab.com/?user=NhatPrv&theme=tokyonight&hide_border=true" height="120" alt="GitHub Streak" />
-  </a>
+  <p>
+    <a href="https://github.com/NhatPrv">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NhatPrv&show_icons=true&theme=tokyonight&hide_border=true" width="415" height="165" alt="NhatPrv's GitHub Stats" />
+    </a>
+    <a href="https://github.com/NhatPrv">
+      <img src="https://streak-stats.demolab.com/?user=NhatPrv&theme=tokyonight&hide_border=true" width="415" height="165" alt="GitHub Streak" />
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/NhatPrv">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NhatPrv&layout=compact&theme=tokyonight&hide_border=true&card_width=445" width="415" height="165" alt="Top Languages" />
+    </a>
+  </p>
 </div>
 
 <h3 align="center">☕ Tinkering & Projects</h3>
