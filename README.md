@@ -1,1 +1,18 @@
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=NhatPrv&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+# hi, i'm Nhat 👋
+
+> i have no idea what i'm doing  
+> but it works so don't touch it
+
+</div>
+
+---
+
+### 🗿 about me
+
+```text
+coding        ████████████████░░  probably
+sleeping      ██████░░░░░░░░░░░░  insufficient
+debugging     ██████████████████  pain
+touching grass ░░░░░░░░░░░░░░░░░░  404
