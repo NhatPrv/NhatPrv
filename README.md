@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" width="100%" alt="pixel art coding landscape">
+  <img src="./assets/banner.gif" width="100%" alt="pixel art coding landscape">
   <p><code>☕ Probably coding. Probably.</code></p>
 </div>
 
