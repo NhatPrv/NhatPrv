@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="./assets/banner.gif" width="100%" alt="pixel art coding landscape">
+  <a href="./assets/banner.mp4">
+    <img src="./assets/banner.gif" width="100%" alt="pixel art coding landscape">
+  </a>
   <p><code>☕ Probably coding. Probably.</code></p>
 </div>
 
