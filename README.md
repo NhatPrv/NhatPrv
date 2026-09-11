@@ -21,7 +21,7 @@
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NhatPrv&show_icons=true&theme=tokyonight&hide_border=true" width="415" height="165" alt="NhatPrv's GitHub Stats" />
     </a>
     <a href="https://github.com/NhatPrv">
-      <img src="https://streak-stats.demolab.com/?user=NhatPrv&theme=tokyonight&hide_border=true" width="415" height="165" alt="GitHub Streak" />
+      <img src="https://streak-stats.vercel.app/?user=NhatPrv&theme=tokyonight&hide_border=true" width="415" height="165" alt="GitHub Streak" />
     </a>
   </p>
   <p>
