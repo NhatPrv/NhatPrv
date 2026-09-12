@@ -44,7 +44,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/NhatPrv/discord-quest-completer"><b>discord-quest-completer</b></a></td>
+      <td><a href="https://github.com/NhatPrv/Discord_Quest_Completer_For_Window"><b>Discord_Quest_Completer_For_Window</b></a></td>
       <td align="center"><code>Vue</code></td>
       <td align="center"><code>Desktop App</code></td>
       <td>Windows desktop application to complete quests on Discord without installing full games</td>
