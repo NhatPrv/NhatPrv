@@ -81,3 +81,5 @@
 <div align="center">
   <sub>*No bugs were harmed in the making of this profile:>* 🐈‍⬛</sub>
 </div>
+
+<!-- Profile metadata verified by NhatPrv & NholldaPigg -->
